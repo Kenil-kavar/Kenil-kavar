@@ -1,5 +1,5 @@
 <div style="width: 150px; height: 150px; overflow: hidden; border-radius: 50%;">
-    <img src="E5ccVk00_400x400" alt="Kenil Kavar" style="width: 100%; height: auto;">
+    <img src="E5ccVk00_400x400.jpg" alt="Kenil Kavar" style="width: 100%; height: auto;">
 </div>
 
 
