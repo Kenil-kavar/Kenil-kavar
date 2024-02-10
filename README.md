@@ -1,7 +1,7 @@
-                                             ![Kenil Kavar](E5ccVk00_400x400.jpg)
+                               					 ![Kenil Kavar](E5ccVk00_400x400.jpg)
 
 
-### Hi there 👋
+Hi there 👋
 
 <!--
 **Kenil-kavar/Kenil-kavar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
