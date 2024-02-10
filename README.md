@@ -1,5 +1,4 @@
 
-<img src="E5ccVk00_400x400.jpg" alt="Kenil Kavar" style="border-radius: 50%;">
 
 
 Hi there 👋
