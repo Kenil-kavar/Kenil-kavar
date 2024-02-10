@@ -1,5 +1,4 @@
-![Kenil Kavar](![Uploading image.png…]()
-)
+![Kenil Kavar](profile.jpg)
 
 ### Hi there 👋
 
