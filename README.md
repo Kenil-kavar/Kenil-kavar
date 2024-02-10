@@ -1,4 +1,4 @@
-![Kenil Kavar]([profile.jpg](125490448?v=4.jpeg))
+![Kenil Kavar]([(125490448?v=4.jpeg)])
 
 
 ### Hi there 👋
