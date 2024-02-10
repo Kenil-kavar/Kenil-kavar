@@ -1,4 +1,5 @@
-![Kenil Kavar](E5ccVk00_400x400.jpeg)
+![Kenil Kavar](profile.jpg)
+
 
 ### Hi there 👋
 
