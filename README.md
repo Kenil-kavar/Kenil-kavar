@@ -15,21 +15,18 @@ I pride myself on being a helpful individual who strongly believes in the power 
     <img src="https://img.shields.io/twitter/follow/harshh_trivedi?label=Twitter&logo=twitter&style=for-the-badge&color=1DA1F2" alt="Twitter">
   </a>
   <a href="https://github.com/Kenil-kavar">
-    <img src="https://img.shields.io/github/follow/harshh_trivedi?label=Twitter&logo=twitter&style=for-the-badge&color=1DA1F2" alt="Github">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="Github">
   </a>
   <br>
   <a href="https://www.linkedin.com/in/kenil-kavar-957744256/">
     <img src="https://img.shields.io/badge/linkedin-%230077b5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-    <a href="kenilkavar@gmail.com">
-    <img src="https://img.shields.io/badge/mail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
-  </a>
+    
   </p>
 
 
 
 You can find me on:
-- 👥 **Linkedin**: (https://www.linkedin.com/in/kenil-kavar-957744256/)
-- 🐦 **Twitter**: (https://x.com/KenilKavar)
+
 - 📧 **Mail**: kenilkavar@gmail.com
 
 Feel free to reach out and connect! 
