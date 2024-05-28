@@ -1,21 +1,20 @@
+<div align="center">
+  <img src="https://avatars.githubusercontent.com/u/125490448?v=4" alt="GitHub Profile Photo" style="border-radius: 50%; width: 150px; height: 150px;">
+  <h1>Kenil Kavar</h1>
+</div>
 
+# About me
+My name is Kenil, and I am a student at Marwadi University, currently pursuing a B.Tech in Information Technology. I have a deep interest in Data Science and am eager to explore the vast potential of AI and how it can be harnessed to create a positive impact on the world.
 
+I pride myself on being a helpful individual who strongly believes in the power of teamwork. I'm always on the lookout for opportunities to enhance my skills and knowledge.
 
-Hi there 👋
+### Social Media Handles
 
-<!--
-**Kenil-kavar/Kenil-kavar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can find me on:
+- 👥 **Linkedin**: (https://www.linkedin.com/in/kenil-kavar-957744256/)
+- 🐦 **Twitter**: (https://x.com/KenilKavar)
+- 📧 **Mail**: kenilkavar@gmail.com
 
-Here are some ideas to get you started:
+Feel free to reach out and connect! 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-[![Kenil-kavar's GitHub | Stats](https://stats.quine.sh/Kenil-kavar/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=Kenil-kavar)
-[![Kenil-kavar's GitHub | Languages Over Time](https://stats.quine.sh/Kenil-kavar/languages-over-time?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=Kenil-kavar)
+I look forward to meeting all of you and to the mutual learning and growth we can achieve together. Thank you for having me here today.
