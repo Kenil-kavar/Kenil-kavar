@@ -20,6 +20,7 @@ I pride myself on being a helpful individual who strongly believes in the power 
   <a href="https://twitter.com/KenilKavar">
     <img src="https://img.shields.io/twitter/follow/harshh_trivedi?label=Twitter&logo=twitter&style=for-the-badge&color=1DA1F2" alt="Twitter">
   </a>
+  [![Twitter Follow](https://img.shields.io/twitter/follow/KenilKavar?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/KenilKavar)
   <a href="https://github.com/Kenil-kavar">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="Github">
   </a>
