@@ -17,14 +17,15 @@ I pride myself on being a helpful individual who strongly believes in the power 
   <a href="https://github.com/Kenil-kavar">
     <img src="https://img.shields.io/github/follow/harshh_trivedi?label=Twitter&logo=twitter&style=for-the-badge&color=1DA1F2" alt="Github">
   </a>
+  <br>
   <a href="https://www.linkedin.com/in/kenil-kavar-957744256/">
     <img src="https://img.shields.io/badge/linkedin-%230077b5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
-  <div style="border-radius: 12px; overflow: hidden; display: inline-block;">
+  
+</p>
+<div style="border-radius: 12px; overflow: hidden; display: inline-block;">
     <img src="https://img.shields.io/badge/mail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge">
 </div>
-</p>
-
 
 
 You can find me on:
