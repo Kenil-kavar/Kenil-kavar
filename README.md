@@ -1,5 +1,5 @@
-<div align="center">
-  <img src="https://avatars.githubusercontent.com/u/125490448?v=4" alt="GitHub Profile Photo" style="border-radius: 12px; overflow: hidden; display: inline-block;">
+<div align="center",border-radius=10px>
+  <img src="https://avatars.githubusercontent.com/u/125490448?v=4" alt="GitHub Profile Photo" >
   <h1>Kenil Kavar</h1>
 </div>
 
