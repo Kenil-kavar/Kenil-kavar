@@ -14,7 +14,7 @@ I pride myself on being a helpful individual who strongly believes in the power 
  
 </p>
 
-### Social Media Handles
+### Social Media Handles:
 
 <p align="center">
   <a href="https://twitter.com/KenilKavar">
