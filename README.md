@@ -22,11 +22,11 @@ I pride myself on being a helpful individual who strongly believes in the power 
   </a>
   
   <a href="https://github.com/Kenil-kavar">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="Github">
+    <img src="https://img.shields.io/badge/Follow%20on-GitHub-black?style=for-the-badge&logo=github" alt="Github">
   </a>
   
   <a href="https://www.linkedin.com/in/kenil-kavar-957744256/">
-    <img src="https://img.shields.io/badge/linkedin-%230077b5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+    <img src="https://img.shields.io/badge/Connect%20on-LinkedIn-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn">
     
   </p>
 
