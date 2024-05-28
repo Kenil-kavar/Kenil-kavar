@@ -23,7 +23,7 @@ I pride myself on being a helpful individual who strongly believes in the power 
     <a href="kenilkavar@gmail.com">
     <img src="https://img.shields.io/badge/mail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
   </a>
-  
+  </p>
 
 
 
