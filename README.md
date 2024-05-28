@@ -2,6 +2,7 @@
   <img src="https://avatars.githubusercontent.com/u/125490448?v=4" alt="GitHub Profile Photo" style="border-radius: 50%; width: 150px; height: 150px;">
   <h1>Hi, I'm Kenil Kavar</h1>
 </div>
+![](https://komarev.com/ghpvc/?username=Kenil-kavar&color=green)
 
 # About me 👇
 My name is Kenil, and I am a student at Marwadi University, currently pursuing a B.Tech in Information Technology. I have a deep interest in Data Science and am eager to explore the vast potential of AI and how it can create a positive impact on the world.
