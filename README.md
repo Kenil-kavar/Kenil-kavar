@@ -33,6 +33,12 @@ I pride myself on being a helpful individual who strongly believes in the power 
 <a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
 <a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" /></a>  
 <a href="https://www.tableau.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tableau.svg" alt="Tableau" height="50" /></a>  
+<a href="https://jupyter.org/" target="_blank"><img style="margin: 10px" src="jupyter.png" alt="Jupyter-Notebook" height="50" /></a>  
+<a href="https://scikit-learn.org/stable/" target="_blank"><img style="margin: 10px" src="scikitlearn.png" alt="Sklearn" height="50" /></a>  
+<a href="https://huggingface.co/" target="_blank"><img style="margin: 10px" src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" alt="Huggingface" height="50" /></a>  
+<a href="https://www.tensorflow.org/" target="_blank"><img style="margin: 10px" src="tensorflow.png" alt="Tensorflow" height="50" /></a>  
+<a href="https://roboflow.com/" target="_blank"><img style="margin: 10px" src="https://app.roboflow.com/images/wordmark-purboflow.svg" alt="Roboflow" height="50" /></a>  
+<a href="https://www.docker.com/" target="_blank"><img style="margin: 10px" src="docker.png" alt="Docker" height="50" /></a>  
 
 </div>
 
