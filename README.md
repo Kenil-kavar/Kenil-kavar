@@ -63,7 +63,8 @@ I pride myself on being a helpful individual who strongly believes in the power 
     <img src="https://img.shields.io/badge/Follow%20on-Instagram-black?style=for-the-badge&logo=instagram" alt="Instagram">
   </p>
 
-- 📧 **Mail**: kenilkavar@gmail.com
+- 📧 **Mail**: [<img src="https://img.shields.io/badge/Mail%20on-Gmail-red?style=for-the-badge&logo=Gmail&logoColor=white" />](https://mailto:kenilkavar@gmail.com)
+
 
 Feel free to reach out and connect! 
 
