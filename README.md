@@ -24,6 +24,9 @@ I pride myself on being a helpful individual who strongly believes in the power 
     <img src="https://github-readme-streak-stats.herokuapp.com?user=Kenil-kavar&theme=shadow-blue&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" width="45%" alt="@Kenil Kavar github-readme-streak-stats">
   </a>
 </p>
+<p align="center">
+     <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+</p>
 <br/>
 
 
