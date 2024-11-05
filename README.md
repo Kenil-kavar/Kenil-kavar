@@ -1,5 +1,4 @@
 <div align="center">
-  <img src="https://avatars.githubusercontent.com/u/125490448?v=4" alt="GitHub Profile Photo" style="border-radius: 50%; width: 150px; height: 150px;">
   <h1>Hi, I'm Kenil Kavar</h1>
 </div>
 
