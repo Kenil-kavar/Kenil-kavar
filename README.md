@@ -1,12 +1,34 @@
 <div align="center">
-  <h1>Hi, I'm Kenil Kavar</h1>
+  <img src="https://capsule-render.vercel.app/api?type=venom&height=200&text=Kenil%20Kavar&fontSize=60&color=0:8A2BE2,100:6A5ACD&stroke=6A5ACD&fontColor=FFFFFF"/>
 </div>
 
+<h3 align="center">
+  <code>⚡ Data Science Explorer | AI Enthusiast | Tech Innovator ⚡</code>
+</h3>
 
-# About me 👇
-My name is Kenil, and I am a student at Marwadi University, currently pursuing a B.Tech in Information Technology. I have a deep interest in Data Science and am eager to explore the vast potential of AI and how it can create a positive impact on the world.
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=25&duration=4000&pause=1000&color=8A2BE2&center=true&vCenter=true&width=600&height=100&lines=Building+Intelligent+Solutions;Transforming+Data+into+Insights;Creating+Impact+through+Innovation"/>
+</div>
 
-I pride myself on being a helpful individual who strongly believes in the power of teamwork. I'm always on the lookout for opportunities to enhance my skills and knowledge.
+## About Me
+
+> Pursuing B.Tech in Information Technology at Marwadi University, I'm passionate about leveraging AI and Data Science to solve real-world challenges. My journey involves exploring cutting-edge technologies and contributing to innovative solutions that make a difference.
+
+```text
+🎯 Current Focus
+└── Data Science
+    ├── Machine Learning
+    │   ├── Neural Networks
+    │   └── Deep Learning
+    ├── Data Analysis
+    │   ├── Statistical Analysis
+    │   └── Predictive Modeling
+    └── AI Applications
+        ├── Computer Vision
+        └── Natural Language Processing
+```
+
+
 <p align="center"> 
  🆅🅸🆂🅸🆃🅾🆁 🅲🅾🆄🅽🆃<br>
   <img src="https://profile-counter.glitch.me/Kenil-kavar/count.svg"/>
