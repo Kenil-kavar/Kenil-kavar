@@ -44,6 +44,7 @@
 </td>
 <td width="50%" align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Kenil-kavar&custom_title=Contribution%20Graph&bg_color=0d1117&color=703ee5&line=703ee5&point=C9D1D9&area_color=703ee5&title_color=C9D1D9&area=true&hide_border=true&radius=16"/>
+    <br><br>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kenil-kavar&theme=midnight-purple&layout=compact&hide_border=true&bg_color=0d1117&title_color=703ee5&text_color=8B949E"/>
 </td>
 </tr>
