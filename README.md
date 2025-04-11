@@ -20,7 +20,8 @@
     ├── Machine Learning
     │   ├── Neural Networks
     │   └── Deep Learning
-    └── AI Applications
+    └── AI 
+        ├── Gen-AI Applications
         ├── Computer Vision
         └── Natural Language Processing
 ```
