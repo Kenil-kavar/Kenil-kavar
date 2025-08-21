@@ -37,19 +37,22 @@
 </p>
 
 <table align="center">
-<tr border="none">
-<td width="50%" align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Kenil-kavar&theme=radical&show_icons=true&count_private=true&hide_border=true&border_radius=20&bg_color=0d1117&title_color=C9D1D9&text_color=8B949E&icon_color=703ee5&ring_color=703ee5"/>
-  <br><br>
-  <img src="https://streak-stats.demolab.com?user=Kenil-kavar&theme=radical&hide_border=true&border_radius=20&background=0d1117&ring=703ee5&fire=703ee5&currStreakLabel=C9D1D9"/>
-</td>
-<td width="50%" align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Kenil-kavar&custom_title=Contribution%20Graph&bg_color=0d1117&color=703ee5&line=703ee5&point=C9D1D9&area_color=703ee5&title_color=C9D1D9&area=true&hide_border=true&radius=16"/>
-    <br><br>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kenil-kavar&theme=midnight-purple&layout=compact&hide_border=true&bg_color=0d1117&title_color=703ee5&text_color=8B949E"/>
-</td>
-</tr>
+  <tr border="none">
+    <td align="center">
+      <img src="https://github-readme-stats.vercel.app/api?username=Kenil-kavar&theme=radical&show_icons=true&count_private=true&hide_border=true&border_radius=20&bg_color=0d1117&title_color=C9D1D9&text_color=8B949E&icon_color=703ee5&ring_color=703ee5"/>
+    </td>
+    <td align="center">
+      <img src="https://streak-stats.demolab.com?user=Kenil-kavar&theme=radical&hide_border=true&border_radius=20&background=0d1117&ring=703ee5&fire=703ee5&currStreakLabel=C9D1D9"/>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center">
+      <img src="https://github-readme-activity-graph.vercel.app/graph?username=Kenil-kavar&custom_title=Contribution%20Graph&bg_color=0d1117&color=703ee5&line=703ee5&point=C9D1D9&area_color=703ee5&title_color=C9D1D9&area=true&hide_border=true&radius=16"/>
+    </td>
+  </tr>
 </table>
+
+
 
 <h2></h2>
 
